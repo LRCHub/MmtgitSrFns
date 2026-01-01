@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "転生林檎（feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク）",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-01-01T10:10:25.894351Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "転生林檎 (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_転生林檎_(feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
